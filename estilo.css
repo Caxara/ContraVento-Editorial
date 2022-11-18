@@ -6,6 +6,7 @@ body{
 #icone img{
     width: 200px;
     height: 200px;
+    margin-top: 80px;
 }
 #bio{
     text-align: justify;
@@ -20,6 +21,10 @@ body{
 #bio h2{
     font-size: 12px;
 
+}
+#menu {
+    margin-left: 10px;
+    margin-top: 100px;
 }
 .contatos{
     text-decoration: none;
