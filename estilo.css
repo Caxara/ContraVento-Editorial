@@ -34,8 +34,8 @@ body{
     margin-left: 10px;
     border: 2px solid #000;
 }
-#bio h2{
-    font-size: 12px;
+#bio p{
+    font-size: 18px;
 
 }
 #menu {
