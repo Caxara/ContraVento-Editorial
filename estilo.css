@@ -11,12 +11,16 @@ body{
 #bio{
     text-align: justify;
     margin-left: 10px;
+    
+    width: 235px;
+    padding: 10px;
 
 }
 #bio h1{
     font-family: Helvetica, Arial, sans-serif;
     color:black;
     text-decoration: underline;
+    font-size: 33px;
 }
 #bio h2{
     font-size: 12px;
