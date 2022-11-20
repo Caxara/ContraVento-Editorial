@@ -55,7 +55,7 @@ body{
     width: 235px;
     border-top: 10px;
 }
-.contatos p{
+.contatos a{
     text-decoration:none;
-    text-decoration-color: black;
+    color: #000;
 }
