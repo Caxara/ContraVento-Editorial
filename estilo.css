@@ -1,8 +1,6 @@
 body{
-    
     font-family: 'Cormorant Garamond', serif;
     color: black;
-    flex-direction: row;
 }
 #icone img{
     width: 200px;
@@ -19,15 +17,15 @@ body{
 #bio{
     text-align: justify;
     margin-left: 10px;
-    /*border: 2px solid #000;*/
+    border: 2px solid #000;
     width: 235px;
     padding: 10px;
+    margin-bottom: none;
 
 }
 #bio h1{
     color:black;
     text-decoration: underline;
-    font-size: 33px;
     font-size: 42px;
     /*border: 2px solid #000;*/
 }
@@ -39,9 +37,9 @@ body{
 #menu {
     margin-left: 10px;
     margin-top: 100px;
-   /* border: 2px solid #000;*/
-    width: 235px;
+    border: 2px solid #000;
     padding: 10px;
+    width: 235px;
     margin-top: none;
 }
 #gradeLivro {
@@ -56,4 +54,7 @@ body{
     /*border: 2px solid #000;*/
     width: 235px;
     border-top: 10px;
+}
+.contatos p{
+    text-decoration: ;
 }
