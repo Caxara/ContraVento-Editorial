@@ -1,6 +1,6 @@
 body{
     
-    font-family: 'Helvetica Neue', Helvetica, Arial;
+    font-family: 'Cormorant Garamond', serif;
     color: black;
     flex-direction: row;
 }
@@ -24,14 +24,11 @@ body{
     padding: 10px;
 
 }
-#name h1{
-    font-family: 'Cormorant Garamond', serif;
+#bio h1{
     color:black;
     text-decoration: underline;
     font-size: 33px;
-    width: 235px;
-    padding: 10px;
-    margin-left: 10px;
+    
     /*border: 2px solid #000;*/
 }
 #bio p{
@@ -49,6 +46,8 @@ body{
 }
 #gradeLivro {
     border: 2px solid #000;
+    background-color: red;
+    height: 50px;
     
 }
 .contatos{
