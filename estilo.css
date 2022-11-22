@@ -6,19 +6,19 @@ body{
 .containerPrincipal{
     display: flex;
     flex-direction: column;
-    border: 2px solid #000;
+    /*border: 2px solid #000;*/
     margin-left: 50px;
 }
 #icone img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     margin-top: 80px;
    /* border: 2px solid #000;*/
 }
 #bio{
     text-align: justify;
     margin-left: 20px;
-    border: 2px solid #000;
+    /*border: 2px solid #000;*/
     width: 235px;
     padding: 10px;
     margin-bottom: none;
@@ -36,7 +36,7 @@ body{
 }
 #menu {
     margin-left: 20px;
-    border: 2px solid #000;
+    /*border: 2px solid #000;*/
     padding: 10px;
     width: 235px;
     margin-top: none;
@@ -44,15 +44,12 @@ body{
 }
 #conteinerSegundo{
     margin: auto;
-    margin: 2px solid #000;
-    background-color: yellow;
+    /*margin: 2px solid #000;*/
 
 }
 #gradeLivro {
-    border: 2px solid #000;
-    background-color: rgb(64, 0, 255);
     height: 600px;
-    width: 600px;
+    width: 580px;
     margin:auto;
     
 }
@@ -65,14 +62,11 @@ body{
     width: 150px;
     margin-left: 20px;
     margin-top: 20px;
-    box-shadow: 3px 3px 2px #000;
-    border-radius: 30px;
-
 }
 .contatos{
     text-decoration: none;
     color: black;
-    border: 2px solid #000;
+    /*border: 2px solid #000;*/
     width: 235px;
     margin-top: 100px;
     font-weight: bolder;
