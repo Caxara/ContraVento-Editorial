@@ -7,6 +7,7 @@ body{
     display: flex;
     flex-direction: column;
     border: 2px solid #000;
+    margin-left: 50px;
 }
 #icone img{
     width: 200px;
@@ -41,17 +42,27 @@ body{
     margin-top: none;
     font-weight: bold;
 }
+#conteinerSegundo{
+    margin: auto;
+    margin: 2px solid #000;
+    background-color: yellow;
+
+}
 #gradeLivro {
     border: 2px solid #000;
     background-color: rgb(64, 0, 255);
-    height: 400px;
-    width: 500px;
+    height: 600px;
+    width: 600px;
     margin:auto;
     
 }
-#fotodafoto img{
-    height: 100px;
-    width: 100px;
+#livros{
+    display: flex;
+    flex-wrap: wrap;
+}
+#livros img{
+    height: 150px;
+    width: 150px;
     margin-left: 20px;
     margin-top: 20px;
     box-shadow: 3px 3px 2px #000;
