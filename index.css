@@ -82,5 +82,7 @@ body{
     color: rgb(92, 42, 149);
 }
 .contatos a:active{
-    
+    box-shadow: 1px 1px 1px black, inset 1px 1px 1px #999;
+    position: relative;
+    top: 5px;
 }
