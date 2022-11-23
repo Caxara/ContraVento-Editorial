@@ -1,4 +1,5 @@
 body{
+    height: 100%;
     font-family: 'Cormorant Garamond', serif;
     color: black;
     display: flex;
@@ -64,7 +65,7 @@ body{
     margin-left: 20px;
     margin-top: 20px;
 }
-.contatos{
+.contatos {
     /*border: 2px solid #000;*/
     text-decoration: none;
     color: black;
@@ -75,4 +76,11 @@ body{
 .contatos a{
     text-decoration:none;
     color: #000;
+}
+.contatos a:hover{
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+.contatos a:active{
+    
 }
