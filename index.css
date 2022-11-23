@@ -27,7 +27,7 @@ body{
     /*border: 2px solid #000;*/
     text-align: center;
     color:black;
-    text-decoration: underline;
+    text-decoration: underline 2px;
     font-size: 30px;
 }
 #bio p{
@@ -35,13 +35,22 @@ body{
     text-align: justify;
 
 }
-#menu {
+#menu{
     /*border: 2px solid #000;*/
+    color: #000;
     margin-left: 20px;
     padding: 10px;
     width: 235px;
     margin-top: none;
     font-weight: bold;
+}
+#menu p{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+#menu p:hover{
+    text-decoration:underline;
+    color: rgb(92, 42, 149);
 }
 #conteinerSegundo{
     margin: 2px solid #000;
